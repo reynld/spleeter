@@ -23,7 +23,12 @@ with [pip](https://github.com/deezer/spleeter/wiki/1.-Installation#using-pip) or
 
 ## Quick start
 
-Want to try it out but don't want to install anything ? We have setup a [Google Colab](https://colab.research.google.com/github/deezer/spleeter/blob/master/spleeter.ipynb).
+Want to try it out but don't want to install anything ? 
+
+We have setup a [Google Colab](https://colab.research.google.com/github/deezer/spleeter/blob/master/spleeter.ipynb).
+
+[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/deezer/spleeter/blob/master/spleeter.ipynb)
+
 
 Ready to dig into it ? In a few lines you can install **Spleeter** using [Conda](https://github.com/deezer/spleeter/wiki/1.-Installation#using-conda) and separate the vocal and accompaniment parts from an example audio file:
 
